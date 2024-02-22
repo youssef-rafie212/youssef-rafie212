@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://youssef-rafie.netlify.app/](https://youssef-rafie.netlify.app/)
-
 - 📫 How to reach me **joe69696974@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
