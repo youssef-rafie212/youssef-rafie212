@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- A Backend Developer using Node.js, I Built Alot Of Projects Along These Years And You Can Check Some Of Them In The Pinned Repos, Im A Fast Learner Who Loves Learning New Technologies And Programming Languages, I Also Make Sure To Improve My Skills Day By Day.
+- A Backend Developer, I Built Alot Of Projects Along These Years And You Can Check Some Of Them In The Pinned Repos, Im A Fast Learner Who Loves Learning New Technologies And Programming Languages, I Also Make Sure To Improve My Skills Day By Day.
 
 - 📫 How to reach me **youssefelbosaty3@gmail.com**
 
